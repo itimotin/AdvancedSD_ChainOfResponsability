@@ -12,7 +12,7 @@ Our current application has the following design:
 
 Redesign this application and implement it with the Chain of Responsibility pattern.
 
-Markup a. Draw the modified class diagram with the Chain of Responsibility pattern applied.
+Markup : a. Draw the modified class diagram with the Chain of Responsibility pattern applied.
        b. Draw a sequence diagram that shows how your new design works. On the sequence
 diagram you should show how the Chain of Responsibility pattern works.
        c. Implement your design in Java. 
